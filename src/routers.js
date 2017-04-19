@@ -5,5 +5,8 @@ export default [{
 }, {
   path: '*',
   component: require('./views/home/home')
+}, {
+  path: '*',
+  component: require('./views/home1/home1')
 }]
 
